@@ -7,5 +7,14 @@ This repository contains testing scripts for the Restful-Booker api using **Post
 https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## Html Report
-![alt text](https://github.com/greatrifat/RestfulBooker-Postman/tree/main/newman-Report-Extra/report.png)
+![report](https://github.com/greatrifat/RestfulBooker-Postman/blob/main/newman-Report-Extra/report.png)
 
+
+## Postman
+![postman](https://github.com/greatrifat/RestfulBooker-Postman/blob/main/newman-Report-Extra/postman.png)
+
+## Newman 
+running test from command line.
+
+![newman](https://github.com/greatrifat/RestfulBooker-Postman/blob/main/newman-Report-Extra/cli.png)
+![newman](https://github.com/greatrifat/RestfulBooker-Postman/blob/main/newman-Report-Extra/cli2.png)
